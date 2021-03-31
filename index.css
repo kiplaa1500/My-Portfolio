@@ -1,3 +1,14 @@
+#myportfolio {
+    text-align: center;
+
+}
+
+#myportfolio>p {
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
 #thewillis {
     box-sizing: border-box;
     border: 1px;
@@ -7,12 +18,13 @@
     font-size: 35px;
 }
 
-#project1{
+#project1 {
     box-sizing: border-box;
     display: flex;
     margin-left: 2cm;
     justify-content: space-evenly;
 }
+
 #project2 {
     box-sizing: border-box;
     display: flex;
@@ -21,11 +33,34 @@
     align-items: center;
 }
 
-#pet{
+#pet {
     box-sizing: border-box;
     border: 1px;
     width: 8cm;
     text-align: center;
     border-radius: 0.5cm;
     font-size: 35px;
+}
+
+#project3 {
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 1cm;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#dairy {
+    box-sizing: border-box;
+    border: 1px;
+    width: 8cm;
+    text-align: center;
+    border-radius: 0.5cm;
+    font-size: 35px;
+}
+
+#container{
+    box-sizing: border-box;
+    border: 2px solid rgb(235, 206, 206);
+    border-radius: 2cm;
 }
