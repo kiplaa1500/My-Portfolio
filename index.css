@@ -7,9 +7,25 @@
     font-size: 35px;
 }
 
-#projects{
+#project1{
     box-sizing: border-box;
     display: flex;
     margin-left: 2cm;
     justify-content: space-evenly;
+}
+#project2 {
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 1cm;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#pet{
+    box-sizing: border-box;
+    border: 1px;
+    width: 8cm;
+    text-align: center;
+    border-radius: 0.5cm;
+    font-size: 35px;
 }
