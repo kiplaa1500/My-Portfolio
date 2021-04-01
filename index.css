@@ -101,3 +101,9 @@
 #project3>img {
     border-radius: 2cm;
 }
+
+#me{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
