@@ -87,5 +87,17 @@
 
 
 #About>img{
-    border-radius: 5cm;
+    border-radius: 4cm;
+}
+
+#project1>img{
+    border-radius: 2cm;
+}
+
+#project2>img {
+    border-radius: 2cm;
+}
+
+#project3>img {
+    border-radius: 2cm;
 }
