@@ -72,7 +72,7 @@
 #aboutparagraph{
     box-sizing: border-box;
     border: 1px solid red;
-    width: 8cm;
+    width: 10cm;
     text-align: center;
     border-radius: 0.5cm;
     font-size: 35px;
@@ -84,3 +84,8 @@
     margin-left: 2cm;
     justify-content: space-evenly;
 } 
+
+
+#About>img{
+    border-radius: 5cm;
+}
