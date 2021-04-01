@@ -67,3 +67,15 @@
     background-color: rgb(238, 232, 232);
 
 }
+
+
+#aboutparagraph{
+    box-sizing: border-box;
+    border: 1px solid red;
+    width: 8cm;
+    text-align: center;
+    border-radius: 0.5cm;
+    font-size: 35px;
+}
+
+
