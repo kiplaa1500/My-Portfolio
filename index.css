@@ -71,7 +71,7 @@
 
 #aboutparagraph{
     box-sizing: border-box;
-    border: 1px solid red;
+    border: 1px;
     width: 10cm;
     text-align: center;
     border-radius: 0.5cm;
