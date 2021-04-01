@@ -78,4 +78,9 @@
     font-size: 35px;
 }
 
-
+#About{
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 2cm;
+    justify-content: space-evenly;
+} 
