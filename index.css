@@ -76,6 +76,7 @@
     text-align: center;
     border-radius: 0.5cm;
     font-size: 35px;
+    margin-top: 2cm;
 }
 
 #About{
@@ -83,6 +84,7 @@
     display: flex;
     margin-left: 2cm;
     justify-content: space-evenly;
+    margin-top: 2cm;
 } 
 
 
@@ -101,9 +103,55 @@
 #project3>img {
     border-radius: 2cm;
 }
+#project4>img {
+    border-radius: 2cm;
+}
 
 #me{
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
+    text-decoration: underline;
+}
+
+#counter {
+    box-sizing: border-box;
+    border: 1px;
+    width: 8cm;
+    text-align: center;
+    border-radius: 0.5cm;
+    font-size: 35px;
+}
+
+#project4 {
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 2cm;
+    justify-content: space-evenly;
+
+}
+#links{
+    font-size: 30px;
+    text-align: right;
+    margin-right: 2cm;
+}
+
+a.visited{
+    color: cornsilk;
+}
+
+a.hover{
+    color: rgba(20, 22, 26, 0.7);
+    box-shadow: 0 0 0 0.625em rgba(0, 0, 0.1), insert 0 0 0.625em rgba(255, 255, 255, 0.6);
+    background-color: rgba(20, 22, 26, 0.7);
+}
+
+#footer{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2cm;
+    justify-content: space-around;
+}
+a.link{
+    color: red;
 }
