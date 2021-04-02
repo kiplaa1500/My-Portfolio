@@ -73,10 +73,10 @@
     box-sizing: border-box;
     border: 1px;
     width: 10cm;
-    text-align: center;
     border-radius: 0.5cm;
     font-size: 35px;
     margin-top: 2cm;
+    text-align: left;
 }
 
 #About{
@@ -140,10 +140,10 @@ a.visited{
     color: cornsilk;
 }
 
-a.hover{
-    color: rgba(20, 22, 26, 0.7);
-    box-shadow: 0 0 0 0.625em rgba(0, 0, 0.1), insert 0 0 0.625em rgba(255, 255, 255, 0.6);
-    background-color: rgba(20, 22, 26, 0.7);
+a:hover{
+    color: rgba(192, 203, 224, 0.7);
+    box-shadow: 0 0 0 0.625em rgb(230, 193, 193), insert 0 0 0.625em rgba(226, 191, 191, 0.6);
+    background-color: rgba(14, 87, 235, 0.7);
 }
 
 #footer{
@@ -154,4 +154,18 @@ a.hover{
 }
 a.link{
     color: red;
+}
+
+#languages {
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px;
+    width: 20cm;
+    margin-left: 15cm;
+    font-size: 30px;
+    color: black;
+}
+#h4{
+    font-size: 20px;
+    text-decoration: underline;
 }
